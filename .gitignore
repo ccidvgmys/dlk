@@ -1,0 +1,13 @@
+# Ignore Python bytecode
+*.pyc
+
+# Ignore IDE configurations (for example, VS Code, PyCharm)
+.idea/
+.vscode/
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore .streamlit folder (if you don't want it ignored anymore, remove this line)
+.streamlit/
